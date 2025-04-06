@@ -4,8 +4,8 @@
 
 This repository contains the specialized machine learning model used in Uterly's women's health platform for detecting Polycystic Ovary Syndrome (PCOS) from ultrasound images. The model utilizes advanced computer vision techniques and deep learning to analyze ovarian ultrasound scans and provide explainable AI results.
 
-![PCOS Detection Example](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-05%20164839.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-05T01%3A23%3A11.347Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2Fab3940d3cd9946a6%2FScreenshot%25202025-04-05%2520164839.png%3FExpires%3D1838510591%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3Dm-qa0rXQU0mBt~FfsbqsWq1jW2aTgKDyk-kubFcs7DxvwpzofyxpbPmCyNVZsXjkt72P-Gi7NOwLP2R5jiFQj1viQb~hLf0K2Aj-aY4mnURi9VZg3EGWZvfZLtZduoKSlTUsGvXP1DNB7DrFLoLaIOzkOTEBPhboDv7~tTM7SDaOaQHfnwklbygs05lBvjNmKT3lf4ludEFEsGYqg6-u1wR-oDxkgFwW022ifvYa6kmsDGqrBBSUgXO-fa0r0GX~qF1Mkq8JbWM6eOOt95-eNiGxUGn26XP~94tY2BydAalpXdsNk6~~6tLIqbRQG3oAcGsSLpFRBnbBOx3Jf1KUpw__%22%7D)
-![PCOS Detection Example](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-05%20164906.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-05T01%3A26%3A35.179Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F89c9f3f2b4f843a0%2FScreenshot%25202025-04-05%2520164906.png%3FExpires%3D1838510795%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DmKMBGipXVouW3F-mIQD~dvUUkaP~YBGeSsTUZNxJnTczNiAgGCMfNE1SVmsU~RxAhaAYxDGPdOuXJ-jPoUHXSXpuRlHukxT3Y4DBwbIi8rcHdNklUrKsl-t-Pw5KwK2h7AXWCdLJrjdGH~-dw2PrBOqQF7V3cNNxHEK6jmpcWLmR1D7aUyO9gIhOGCpmGlcuZySw~~coXq6m3jdk0TQtZwxtrE3GTN7M3Arw4Fge-uEK7-lMTuhy5riFKYpAOaVKU6-LNMUna9Ltw1--sJ1rIHgLLI~qSiGr4kUwqnTjAfUmTwit4QGR52AtRiBn9huziANBFL9~p~Apkqf1VAlKcQ__%22%7D)
+![PCOS Detection Example](https://ibb.co/VW1TkjjD)
+![PCOS Detection Example](https://ibb.co/Hf7GJwYH)
 ## Features
 
 - **4-Channel Image Processing**: Combines RGB channels with edge detection for improved feature recognition
